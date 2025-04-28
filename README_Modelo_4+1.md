@@ -32,7 +32,7 @@ Este documento describe los diagramas UML requeridos para representar la arquite
 
 - Los diagramas deben ser claros, enfocados en los elementos principales.
 - No se requiere diagramas extensos: **se prioriza claridad sobre cantidad**.
-- Herramientas sugeridas: **Lucidchart**, **Draw.io**, **StarUML**, **PlantUML**, entre otras.
+- Herramientas sugeridas: **Draw.io**, **StarUML**, **Lucidchart**, entre otras.
 - Cada diagrama debe reflejar correctamente la vista que representa dentro del modelo 4+1.
 
 ---
