@@ -8,11 +8,11 @@ Este documento describe los diagramas UML requeridos para representar la arquite
 
 | Vista | ¿Qué representa? | Diagrama UML solicitado |
 |:------|:-----------------|:-------------------------|
+| **Escenarios (+1)** | Casos prácticos que validan la arquitectura. | **Diagrama de Casos de Uso** |
 | **Lógica** | Funcionalidad y estructura del sistema. | **Diagrama de Clases** |
 | **Procesos** | Flujo dinámico de actividades concurrentes. | **Diagrama de Actividades** |
 | **Desarrollo** | Organización modular del software. | **Diagrama de Componentes** |
 | **Física** | Distribución física sobre hardware. | **Diagrama de Despliegue** |
-| **Escenarios (+1)** | Casos prácticos que validan la arquitectura. | **Diagrama de Casos de Uso** |
 
 ---
 
@@ -20,11 +20,11 @@ Este documento describe los diagramas UML requeridos para representar la arquite
 
 | Diagrama UML | ¿Qué representa? | Clasificación UML |
 |:-------------|:-----------------|:------------------|
+| **Diagrama de Casos de Uso** | Acciones disponibles para el usuario. | **De Comportamiento** |
 | **Diagrama de Clases** | Estructura: clases, atributos, relaciones. | **Estructural** |
 | **Diagrama de Actividades** | Flujo de procesos o pasos internos. | **De Comportamiento** |
 | **Diagrama de Componentes** | Organización de módulos o subsistemas. | **Estructural** |
 | **Diagrama de Despliegue** | Distribución en servidores y nodos. | **Estructural** |
-| **Diagrama de Casos de Uso** | Acciones disponibles para el usuario. | **De Comportamiento** |
 
 ---
 
